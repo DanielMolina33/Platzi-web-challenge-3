@@ -127,8 +127,17 @@ body {
     max-width: 350px;
   }
 
+  .card_1 {
+    justify-self: right;
+  }
+
+  .card_4 {
+    justify-self: left;
+  }
+
   .card_1,
   .card_4 {
     align-self: center;
   }
+
 }
