@@ -1,5 +1,7 @@
 # Componente de vista previa de un artículo.
 
+![Vista previa del diseño para el desafío de la sección de cuatro cartas](./design/desktop-preview.jpg)
+
 ## Platzi web challenge 3.
 
 ### Demo
